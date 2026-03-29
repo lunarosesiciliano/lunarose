@@ -2,19 +2,19 @@
 let pageNumber = 0
 
 const pages = [
-    { copy:"a PDX-based front-end developer with 3+ years industry experience", 
+    { copy:"a PDX-based front-end developer with 5 years industry experience", 
         background: "#ADFFC0",
         circle: "#FFADEC"
     },
-    { copy:"a visual artist, musician, and dancer.",
+    { copy:"a multidiscipinary artist with a passion for learning new technologies.",
         background:"#FF9500",
         circle: "#006AFF"
     },
-    { copy:"a creative with a background in science.",
+    { copy:"a creative coder with a background in both science and art.",
         background:"#29D2D6",
         circle: "#D62D29",
     },
-    { copy:`letting you download her <a href = "./assets/LRS Resume 2023.pdf">resume</a> :) `,
+    { copy:`letting you download her <a href = "assets/Luna Siciliano Resume 2026.docx.pdf">resume</a> :) `,
         background:"#0907F8",
         circle: "#F6F807",
     },
