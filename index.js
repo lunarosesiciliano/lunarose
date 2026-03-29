@@ -14,7 +14,7 @@ const pages = [
         background:"#29D2D6",
         circle: "#D62D29",
     },
-    { copy:`letting you download her <a href = "assets/Luna Siciliano Resume 2026.docx.pdf">resume</a> :) `,
+    { copy:`letting you download her <a href = "./assets/lrs2026-resume.pdf">resume</a> :) `,
         background:"#0907F8",
         circle: "#F6F807",
     },
